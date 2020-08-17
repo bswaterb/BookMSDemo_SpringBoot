@@ -5,7 +5,7 @@ A simple SpringBoot2.x+Vue.js demo to record learning ( BookManagementSystem)
 
 前端技术栈：
 
-**vue.js  ** +  **element-ui**  +  **axios**  +   **npm/webpack**
+**vue.js** +  **element-ui**  +  **axios**  +   **npm/webpack**
 
 后端技术栈：
 
